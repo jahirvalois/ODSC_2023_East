@@ -1,0 +1,11 @@
+For End to End ML with XGBoost
+
+You should have a computer that has Jupyter, Python 3, Pandas, and XGBoost
+installed.
+
+Alternatively, you should have access to Google Colab.
+
+The notebook and data for the tutorial will be posted on Github.
+
+If you need help with that, view https://www.metasnake.com/blog/pydata-dev.html
+
