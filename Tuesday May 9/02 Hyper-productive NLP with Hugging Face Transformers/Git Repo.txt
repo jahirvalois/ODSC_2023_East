@@ -1,0 +1,1 @@
+https://gitlab.com/juliensimon/huggingface-demos/-/tree/main/amazon-shoes
